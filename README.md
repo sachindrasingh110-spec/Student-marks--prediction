@@ -60,3 +60,10 @@ Note: These results are based on a small sample dataset and do not represent rea
 ## Author
 
 Student Marks Prediction Projects
+## Project Output
+
+### Actual vs Predicted Marks
+![Actual vs Predicted](actual_vs_predicted.png)
+
+### Model Performance
+![Model Performance](model_performance.png)
